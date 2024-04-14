@@ -86,7 +86,24 @@ a {
     width: 1.52%;
 
     
+}
+
+.footer .img3 {
+    position: absolute;
+    left: 2360px;
+    bottom: 20px;
+    height: 40%;
+    width: 1.52%;
     
+}
+
+.footer .img4 {
+    position: absolute;
+    left: 2276px;
+    bottom: 10px;
+    height: 64%;
+    width: 3.3%;
+
 }
 
 @keyframes spin {
@@ -120,6 +137,28 @@ a {
 
     animation: spin 3s ease 0s infinite normal none;
 }
+
+.footer .img3:hover {
+    position: absolute;
+    left: 2360px;
+    bottom: 20px;
+    height: 40%;
+    width: 1.52%;
+
+    animation: spin 3s ease 0s infinite normal none;
+}
+
+
+.footer .img4:hover {
+    position: absolute;
+    left: 2276px;
+    bottom: 10px;
+    height: 64%;
+    width: 3.3%;
+
+    animation: spin 3s ease 0s infinite normal none;
+}
+
 
 
 
